@@ -4,5 +4,9 @@
 }
 
 .image {
-  width: 30%;
+  width: 30%;}
+
+.best {
+  color: pink;
+  font-family: cursive;
 }
